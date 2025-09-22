@@ -45,6 +45,14 @@ The plot below shows the soil moisture over time, with the red 'X's marking the 
 
 ---
 
+## Real-Time Implementation
+
+The system in action, monitoring environmental conditions and transmitting data to the cloud for analysis:
+
+![Real-Time Implementation](Smart-Cactus-Pot-ML/project_video/real_life.jpg)
+
+---
+
 ## Future Plans
 
 My goal is to evolve this prototype into a fully **smart, self-powered cactus pot integrating a dedicated mobile app.** The next phase will involve:

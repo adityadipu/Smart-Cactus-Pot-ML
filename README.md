@@ -35,6 +35,14 @@ This project is a self-sustaining, solar-powered smart plant pot designed to mon
 
 ---
 
+## Mobile App Interface
+
+The Blynk mobile app provides a clean, intuitive dashboard to monitor all sensor data in real-time:
+
+![Blynk Mobile App](Smart-Cactus-Pot-ML/project_images/blynk_dashboard.png.jpg)
+
+---
+
 ## Machine Learning Analysis: Anomaly Detection
 
 Instead of using simple `if/else` rules, this project leverages an Isolation Forest algorithm to learn the "normal" operating conditions from the sensor data. The model then identifies data points that deviate significantly from this norm.
@@ -58,3 +66,5 @@ The system in action, monitoring environmental conditions and transmitting data 
 My goal is to evolve this prototype into a fully **smart, self-powered cactus pot integrating a dedicated mobile app.** The next phase will involve:
 1.  Using the ML anomaly alerts to automatically trigger the water pump.
 2.  Developing a custom mobile application for a more tailored user experience.
+
+---

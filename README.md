@@ -35,6 +35,14 @@ This project is a self-sustaining, solar-powered smart plant pot designed to mon
 
 ---
 
+## System Architecture
+
+The diagram below illustrates the complete workflow of the project, from data acquisition by the sensors to cloud communication and final machine learning analysis.
+
+![System Architecture](project_images/system_architecture.png)
+
+---
+
 ## Machine Learning Analysis: Anomaly Detection
 
 Instead of using simple `if/else` rules, this project leverages an Isolation Forest algorithm to learn the "normal" operating conditions from the sensor data. The model then identifies data points that deviate significantly from this norm.

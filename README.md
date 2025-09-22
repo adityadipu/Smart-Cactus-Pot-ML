@@ -49,7 +49,7 @@ The plot below shows the soil moisture over time, with the red 'X's marking the 
 
 The system in action, monitoring environmental conditions and transmitting data to the cloud for analysis:
 
-![Real-Time Implementation](Smart-Cactus-Pot-ML/project_video/real_life.jpg)
+![Real-Time Implementation](Smart-Cactus-Pot-ML/project _video/real_life.jpg)
 
 ---
 
